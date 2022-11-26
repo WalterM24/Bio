@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @WalterM24
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning HTML
+- 🌱 I’m currently learning HTML and CSS
 - 💞️ I’m looking to collaborate on any beginner projects.
 - 📫 How to reach me @waltermarroquin.spike@gmail.com
 
